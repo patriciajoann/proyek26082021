@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect('localhost','root','','toko_online');
+$conn = mysqli_connect('localhost','root','','perpus_php_native');
 
 /* check connection */
 if (mysqli_connect_errno()) {
@@ -12,3 +12,4 @@ if (mysqli_connect_errno()) {
 }
 
 ?>
+
